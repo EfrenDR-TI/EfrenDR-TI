@@ -20,6 +20,18 @@ Mi perfil integra habilidades técnicas, pensamiento estratégico y un enfoque c
 
 ---
 
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EfrenDR-TI&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenDR-TI&layout=donut&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 En qué estoy trabajando actualmente
 
 - Desarrollo de un portafolio técnico con proyectos en Python y Django  
