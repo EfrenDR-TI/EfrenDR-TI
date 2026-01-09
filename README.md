@@ -29,14 +29,6 @@ Mi perfil integra habilidades técnicas, pensamiento estratégico y un enfoque c
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenDR-TI&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenDR-TI&layout=donut&theme=dark)
-
----
-
 ## 📂 Proyectos que encontrarás aquí
 
 - 📊 Análisis de datos e indicadores por entidad y municipio  
