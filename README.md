@@ -1,4 +1,4 @@
-# Hola 👋
+# Hola 
 
 Ingeniero en Informática con experiencia en la administración de bases de datos, desarrollo de proyectos analíticos y conceptuales, así como en el despliegue de soluciones tecnológicas en entornos de alta disponibilidad.
 
